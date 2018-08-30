@@ -1,6 +1,5 @@
-Run:
-
-	npm install -g parcel-bundler
-	npm install --save-dev
-	parcel index.html
-
+```bash
+npm install -g parcel-bundler
+npm install
+parcel index.html
+```
