@@ -1,6 +1,7 @@
-Run:
+## Setup
 
-	npm install -g parcel-bundler
-	npm install --save-dev
-	parcel index.html
-
+```bash
+git clone https://github.com/pcwalton/fast-gaussian
+npm install
+npx parcel-bundler index.html
+```
